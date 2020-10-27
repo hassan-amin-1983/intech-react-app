@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           <h1>Hassan Amin</h1>
+          My React App
         </p>
       </header>
     </div>
