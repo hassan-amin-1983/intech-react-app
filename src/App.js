@@ -1,3 +1,4 @@
+import React from 'react';
 import logo from './Hassan-Amin.png';
 import './App.css';
 
@@ -7,8 +8,6 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <h1>Hassan Amin</h1>
-          My First React App 2021
         </p>
       </header>
     </div>
